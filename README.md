@@ -5,7 +5,7 @@ This was my submission for the Primetrade.ai data science hiring assignment. The
 ## What's in here
 
 - **`trader_sentiment_analysis.py`** — the full analysis script. Loads both datasets, merges them by date, and works through profitability, position sizing, long/short behavior, account-level patterns, and generates all the charts.
-- **`Trader_Sentiment_Analysis_Report.docx`** — the write-up with the actual findings, charts, and takeaways in a readable format.
+- **`Assignment.docx`** — the write-up with the actual findings, charts, and takeaways in a readable format.
 
 ## How to run it
 
