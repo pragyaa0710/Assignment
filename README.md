@@ -18,7 +18,7 @@ python trader_sentiment_analysis.py
 
 It'll print out summary tables to the console and save four PNG charts alongside the script.
 
-## What I found (short version)
+## What I found
 
 - Traders actually did *better* at the sentiment extremes — Extreme Greed and Fear both had higher win rates than calm, Neutral markets. Not what I expected going in.
 - Short positions were more profitable than longs across the board, especially during Greed — basically, fading the crowd's optimism paid off more than riding it.
